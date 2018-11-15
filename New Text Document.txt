@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 
 wwwwwdd
+=======
+>>>>>>> parent of a74d738... changed
