@@ -1,0 +1,95 @@
+#gioithieu_to{
+    width: 100%;
+    height: 570px;
+    background-color: #FFFFFF;
+}
+#gioithieu_to .gioithieu_text{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 40px 0 0 0;
+}
+#gioithieu_to .gioithieuks{
+    width: 90%;
+    height: 450px;
+    margin: 20px auto;
+    background-color: aliceblue;
+}
+#gioithieu_to .gioithieuks .gioithieu_ks1{
+    float: left;
+    width: 31%;
+    height: 100%;
+    background-color: #F1F1F1;
+    text-align: center;
+}
+#gioithieu_to .gioithieuks .gioithieu_ks1 .gioithieu_image{
+    background: url('../image/ks1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 35%;
+}
+#gioithieu_to .gioithieuks .gioithieu_td{
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 40px;
+}
+#gioithieu_to .gioithieuks .gioithieu_td a{
+    text-decoration: none;
+    color: black;
+}
+#gioithieu_to .gioithieuks .gioithieu_content{
+    width: 100%;
+    height: 37%;
+    background-color: #F1F1F1;
+}
+#gioithieu_to .gioithieuks .gioithieu_link{
+    width: 100%;
+    height:19%;
+    background-color: bisque;
+    line-height: 90px;
+}
+#gioithieu_to .gioithieuks .gioithieu_link a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+#gioithieu_to .gioithieuks .gioithieu_ks2{
+    float: left;
+    width: 31%;
+    height: 100%;
+    background-color: #F1F1F1;
+    text-align: center;
+    margin-left: 3.5%;
+}
+#gioithieu_to .gioithieuks .gioithieu_ks2 .gioithieu_image2{
+    background: url('../image/ks2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 35%;
+}
+#gioithieu_to .gioithieuks .gioithieu_ks3{
+    float: left;
+    width: 31%;
+    height: 100%;
+    background-color: #F1F1F1;
+    text-align: center;
+    margin-left: 3.5%;
+}
+#gioithieu_to .gioithieuks .gioithieu_ks3 .gioithieu_image3{
+    background: url('../image/ks3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 35%;
+}
+#gioithieu_to .gioithieuks .gioithieu_link a:hover{
+    color: red;
+    font-size: 25px;
+}

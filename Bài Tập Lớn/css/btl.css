@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 100%;
+}
+.clr{
+    clear: both;
+}
+#menu_header{
+    height: 35px;
+    background-color: antiquewhite;
+    width: 100%;
+}
+.tranghome{
+    position: absolute;
+    left:25px;
+    top:9px;
+}
+.languages{
+    float: right;
+    padding:9px 40px 0 0;
+}
+.languages a{
+    float: right;
+    display: block;
+    padding: 0 5px;
+}
+.register{
+    float: right;
+    padding: 7px 60px 0 0;
+}
+.register a{
+    text-decoration: none;
+}
+.login{
+    float: right;
+    padding: 7px 20px 0 0;
+}
+.login a{
+    text-decoration: none;
+}
+.search{
+    float:right;
+    padding: 3px 100px 0 0;
+}
+.search img{
+    float: left;
+    background-color: #F1F8FA;
+    border: 2px solid #E1ECEF;
+    border-right: none;
+    height: 16px;
+    margin: 5px 0 0 0;
+}
+.search #search_text{
+    float: left;
+    border: 2px solid #E1ECEF;
+    border-left: none;
+    width: 200px;
+    height: 16px;
+    margin: 5px 0 0 0;
+    background-color: #F1F8FA;
+}
+.search #search_btn{
+    float: left;
+    background-color:#A5E0F0;
+    margin: 5px 0 0 0;
+    width: 50px;
+    height: 19px;
+    border: none;
+    cursor: pointer;
+}
+input[type=text]:focus,input[type=number]:focus{
+    outline: none;
+}
+
